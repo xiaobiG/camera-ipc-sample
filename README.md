@@ -1,3 +1,10 @@
+### AGP
+
+- JDK11
+- Gradle 6.1.1 
+- AGP 3.6.4
+
+
 # 前言
 提到 Android 进程间的通信方式，即使是 Android 客户端开发初学者，也能列举出来几种，无外乎：
 1. bundle
